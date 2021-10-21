@@ -25,4 +25,4 @@ console.log(v);
 //concatenate
 let name="natia";
 let female="shavladze";
-console.log(name+female);
+console.log(name+''+female);
