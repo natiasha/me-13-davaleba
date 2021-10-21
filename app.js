@@ -13,4 +13,12 @@ let n=Math.PI * r*r;
 console.log(n);
 //boolean
 17<5
-console.log(17<5)
+console.log(17<5);
+//strings
+let text="I am natia shavladze";
+console.log(text);
+//Addition
+let g=4;
+let k=6;
+let v=g+k;
+console.log(v);
