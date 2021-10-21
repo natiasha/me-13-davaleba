@@ -22,3 +22,7 @@ let g=4;
 let k=6;
 let v=g+k;
 console.log(v);
+//concatenate
+let name="natia";
+let female="shavladze";
+console.log(name+female);
